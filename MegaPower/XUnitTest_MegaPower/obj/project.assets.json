@@ -8574,10 +8574,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Ext_Project\\MegaPower\\XUnitTest_MegaPower\\XUnitTest_MegaPower.csproj",
+      "projectUniqueName": "C:\\Ext_Project\\MegaCollection\\MegaPower\\XUnitTest_MegaPower\\XUnitTest_MegaPower.csproj",
       "projectName": "XUnitTest_MegaPower",
-      "projectPath": "C:\\Ext_Project\\MegaPower\\XUnitTest_MegaPower\\XUnitTest_MegaPower.csproj",
-      "outputPath": "C:\\Ext_Project\\MegaPower\\XUnitTest_MegaPower\\obj\\",
+      "projectPath": "C:\\Ext_Project\\MegaCollection\\MegaPower\\XUnitTest_MegaPower\\XUnitTest_MegaPower.csproj",
+      "outputPath": "C:\\Ext_Project\\MegaCollection\\MegaPower\\XUnitTest_MegaPower\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

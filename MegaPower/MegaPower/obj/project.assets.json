@@ -9701,10 +9701,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Ext_Project\\MegaPower\\MegaPower\\MegaPower.csproj",
+      "projectUniqueName": "C:\\Ext_Project\\MegaCollection\\MegaPower\\MegaPower\\MegaPower.csproj",
       "projectName": "MegaPower",
-      "projectPath": "C:\\Ext_Project\\MegaPower\\MegaPower\\MegaPower.csproj",
-      "outputPath": "C:\\Ext_Project\\MegaPower\\MegaPower\\obj\\",
+      "projectPath": "C:\\Ext_Project\\MegaCollection\\MegaPower\\MegaPower\\MegaPower.csproj",
+      "outputPath": "C:\\Ext_Project\\MegaCollection\\MegaPower\\MegaPower\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

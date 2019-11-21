@@ -7080,10 +7080,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Ext_Project\\MegaPower\\Contract_MegaPower\\Contract_MegaPower.csproj",
+      "projectUniqueName": "C:\\Ext_Project\\MegaCollection\\MegaPower\\Contract_MegaPower\\Contract_MegaPower.csproj",
       "projectName": "Contract_MegaPower",
-      "projectPath": "C:\\Ext_Project\\MegaPower\\Contract_MegaPower\\Contract_MegaPower.csproj",
-      "outputPath": "C:\\Ext_Project\\MegaPower\\Contract_MegaPower\\obj\\",
+      "projectPath": "C:\\Ext_Project\\MegaCollection\\MegaPower\\Contract_MegaPower\\Contract_MegaPower.csproj",
+      "outputPath": "C:\\Ext_Project\\MegaCollection\\MegaPower\\Contract_MegaPower\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
