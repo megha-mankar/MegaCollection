@@ -1,0 +1,9 @@
+C:\Ext_Project\MegaPower\MegaPower\bin\Debug\netcoreapp1.1\MegaPower.deps.json
+C:\Ext_Project\MegaPower\MegaPower\bin\Debug\netcoreapp1.1\MegaPower.runtimeconfig.json
+C:\Ext_Project\MegaPower\MegaPower\bin\Debug\netcoreapp1.1\MegaPower.runtimeconfig.dev.json
+C:\Ext_Project\MegaPower\MegaPower\bin\Debug\netcoreapp1.1\MegaPower.dll
+C:\Ext_Project\MegaPower\MegaPower\bin\Debug\netcoreapp1.1\MegaPower.pdb
+C:\Ext_Project\MegaPower\MegaPower\obj\Debug\netcoreapp1.1\MegaPower.csprojResolveAssemblyReference.cache
+C:\Ext_Project\MegaPower\MegaPower\obj\Debug\netcoreapp1.1\MegaPower.AssemblyInfo.cs
+C:\Ext_Project\MegaPower\MegaPower\obj\Debug\netcoreapp1.1\MegaPower.dll
+C:\Ext_Project\MegaPower\MegaPower\obj\Debug\netcoreapp1.1\MegaPower.pdb

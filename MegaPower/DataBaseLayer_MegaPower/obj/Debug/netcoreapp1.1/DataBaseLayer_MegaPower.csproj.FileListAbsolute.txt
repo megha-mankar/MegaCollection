@@ -1,0 +1,7 @@
+C:\Ext_Project\MegaPower\DataBaseLayer_MegaPower\bin\Debug\netcoreapp1.1\DataBaseLayer_MegaPower.deps.json
+C:\Ext_Project\MegaPower\DataBaseLayer_MegaPower\bin\Debug\netcoreapp1.1\DataBaseLayer_MegaPower.dll
+C:\Ext_Project\MegaPower\DataBaseLayer_MegaPower\bin\Debug\netcoreapp1.1\DataBaseLayer_MegaPower.pdb
+C:\Ext_Project\MegaPower\DataBaseLayer_MegaPower\obj\Debug\netcoreapp1.1\DataBaseLayer_MegaPower.csprojResolveAssemblyReference.cache
+C:\Ext_Project\MegaPower\DataBaseLayer_MegaPower\obj\Debug\netcoreapp1.1\DataBaseLayer_MegaPower.AssemblyInfo.cs
+C:\Ext_Project\MegaPower\DataBaseLayer_MegaPower\obj\Debug\netcoreapp1.1\DataBaseLayer_MegaPower.dll
+C:\Ext_Project\MegaPower\DataBaseLayer_MegaPower\obj\Debug\netcoreapp1.1\DataBaseLayer_MegaPower.pdb
