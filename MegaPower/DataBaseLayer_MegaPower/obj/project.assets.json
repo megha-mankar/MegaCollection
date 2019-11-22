@@ -7080,10 +7080,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Ext_Project\\MegaPower\\DataBaseLayer_MegaPower\\DataBaseLayer_MegaPower.csproj",
+      "projectUniqueName": "C:\\Ext_Project\\MegaCollection\\MegaPower\\DataBaseLayer_MegaPower\\DataBaseLayer_MegaPower.csproj",
       "projectName": "DataBaseLayer_MegaPower",
-      "projectPath": "C:\\Ext_Project\\MegaPower\\DataBaseLayer_MegaPower\\DataBaseLayer_MegaPower.csproj",
-      "outputPath": "C:\\Ext_Project\\MegaPower\\DataBaseLayer_MegaPower\\obj\\",
+      "projectPath": "C:\\Ext_Project\\MegaCollection\\MegaPower\\DataBaseLayer_MegaPower\\DataBaseLayer_MegaPower.csproj",
+      "outputPath": "C:\\Ext_Project\\MegaCollection\\MegaPower\\DataBaseLayer_MegaPower\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

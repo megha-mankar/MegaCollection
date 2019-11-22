@@ -5,3 +5,9 @@ C:\Ext_Project\MegaPower\Service_MegaPower\obj\Debug\netcoreapp1.1\Service_MegaP
 C:\Ext_Project\MegaPower\Service_MegaPower\obj\Debug\netcoreapp1.1\Service_MegaPower.AssemblyInfo.cs
 C:\Ext_Project\MegaPower\Service_MegaPower\obj\Debug\netcoreapp1.1\Service_MegaPower.dll
 C:\Ext_Project\MegaPower\Service_MegaPower\obj\Debug\netcoreapp1.1\Service_MegaPower.pdb
+C:\Ext_Project\MegaCollection\MegaPower\Service_MegaPower\bin\Debug\netcoreapp1.1\Service_MegaPower.deps.json
+C:\Ext_Project\MegaCollection\MegaPower\Service_MegaPower\bin\Debug\netcoreapp1.1\Service_MegaPower.dll
+C:\Ext_Project\MegaCollection\MegaPower\Service_MegaPower\bin\Debug\netcoreapp1.1\Service_MegaPower.pdb
+C:\Ext_Project\MegaCollection\MegaPower\Service_MegaPower\obj\Debug\netcoreapp1.1\Service_MegaPower.AssemblyInfo.cs
+C:\Ext_Project\MegaCollection\MegaPower\Service_MegaPower\obj\Debug\netcoreapp1.1\Service_MegaPower.dll
+C:\Ext_Project\MegaCollection\MegaPower\Service_MegaPower\obj\Debug\netcoreapp1.1\Service_MegaPower.pdb

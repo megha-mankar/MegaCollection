@@ -10,3 +10,15 @@ C:\Ext_Project\MegaPower\XUnitTest_MegaPower\obj\Debug\netcoreapp1.1\XUnitTest_M
 C:\Ext_Project\MegaPower\XUnitTest_MegaPower\obj\Debug\netcoreapp1.1\XUnitTest_MegaPower.AssemblyInfo.cs
 C:\Ext_Project\MegaPower\XUnitTest_MegaPower\obj\Debug\netcoreapp1.1\XUnitTest_MegaPower.dll
 C:\Ext_Project\MegaPower\XUnitTest_MegaPower\obj\Debug\netcoreapp1.1\XUnitTest_MegaPower.pdb
+C:\Ext_Project\MegaCollection\MegaPower\XUnitTest_MegaPower\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Ext_Project\MegaCollection\MegaPower\XUnitTest_MegaPower\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Ext_Project\MegaCollection\MegaPower\XUnitTest_MegaPower\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Ext_Project\MegaCollection\MegaPower\XUnitTest_MegaPower\bin\Debug\netcoreapp1.1\XUnitTest_MegaPower.deps.json
+C:\Ext_Project\MegaCollection\MegaPower\XUnitTest_MegaPower\bin\Debug\netcoreapp1.1\XUnitTest_MegaPower.runtimeconfig.json
+C:\Ext_Project\MegaCollection\MegaPower\XUnitTest_MegaPower\bin\Debug\netcoreapp1.1\XUnitTest_MegaPower.runtimeconfig.dev.json
+C:\Ext_Project\MegaCollection\MegaPower\XUnitTest_MegaPower\bin\Debug\netcoreapp1.1\XUnitTest_MegaPower.dll
+C:\Ext_Project\MegaCollection\MegaPower\XUnitTest_MegaPower\bin\Debug\netcoreapp1.1\XUnitTest_MegaPower.pdb
+C:\Ext_Project\MegaCollection\MegaPower\XUnitTest_MegaPower\obj\Debug\netcoreapp1.1\XUnitTest_MegaPower.csprojResolveAssemblyReference.cache
+C:\Ext_Project\MegaCollection\MegaPower\XUnitTest_MegaPower\obj\Debug\netcoreapp1.1\XUnitTest_MegaPower.AssemblyInfo.cs
+C:\Ext_Project\MegaCollection\MegaPower\XUnitTest_MegaPower\obj\Debug\netcoreapp1.1\XUnitTest_MegaPower.dll
+C:\Ext_Project\MegaCollection\MegaPower\XUnitTest_MegaPower\obj\Debug\netcoreapp1.1\XUnitTest_MegaPower.pdb

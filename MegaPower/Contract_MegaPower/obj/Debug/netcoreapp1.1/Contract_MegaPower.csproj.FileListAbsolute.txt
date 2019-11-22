@@ -5,3 +5,9 @@ C:\Ext_Project\MegaPower\Contract_MegaPower\obj\Debug\netcoreapp1.1\Contract_Meg
 C:\Ext_Project\MegaPower\Contract_MegaPower\obj\Debug\netcoreapp1.1\Contract_MegaPower.AssemblyInfo.cs
 C:\Ext_Project\MegaPower\Contract_MegaPower\obj\Debug\netcoreapp1.1\Contract_MegaPower.dll
 C:\Ext_Project\MegaPower\Contract_MegaPower\obj\Debug\netcoreapp1.1\Contract_MegaPower.pdb
+C:\Ext_Project\MegaCollection\MegaPower\Contract_MegaPower\bin\Debug\netcoreapp1.1\Contract_MegaPower.deps.json
+C:\Ext_Project\MegaCollection\MegaPower\Contract_MegaPower\bin\Debug\netcoreapp1.1\Contract_MegaPower.dll
+C:\Ext_Project\MegaCollection\MegaPower\Contract_MegaPower\bin\Debug\netcoreapp1.1\Contract_MegaPower.pdb
+C:\Ext_Project\MegaCollection\MegaPower\Contract_MegaPower\obj\Debug\netcoreapp1.1\Contract_MegaPower.AssemblyInfo.cs
+C:\Ext_Project\MegaCollection\MegaPower\Contract_MegaPower\obj\Debug\netcoreapp1.1\Contract_MegaPower.dll
+C:\Ext_Project\MegaCollection\MegaPower\Contract_MegaPower\obj\Debug\netcoreapp1.1\Contract_MegaPower.pdb
